@@ -1,5 +1,3 @@
-"use client";
-
 import { Plate } from "@udecode/plate/react";
 
 import { useCreateEditor } from "./use-create-editor";

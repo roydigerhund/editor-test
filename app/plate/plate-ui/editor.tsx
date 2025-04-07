@@ -1,5 +1,3 @@
-"use client";
-
 import React from "react";
 
 import type { PlateContentProps } from "@udecode/plate/react";
@@ -10,7 +8,6 @@ import {
   PlateContent,
   useEditorContainerRef,
   useEditorRef,
-  useEditorState,
 } from "@udecode/plate/react";
 import { cva } from "class-variance-authority";
 

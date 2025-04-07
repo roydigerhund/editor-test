@@ -1,4 +1,3 @@
-import { useEditorState } from "@udecode/plate/react";
 import { PlateEditor } from "~/plate/editor/plate-editor";
 
 export default function Home() {
