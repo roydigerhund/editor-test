@@ -9,11 +9,22 @@
     "typecheck": "react-router typegen && tsc"
   },
   "dependencies": {
+    "@lexical/react": "^0.29.0",
+    "@lexical/rich-text": "^0.29.0",
     "@react-router/node": "^7.4.1",
     "@react-router/serve": "^7.4.1",
+    "@udecode/cn": "^46.0.9",
+    "@udecode/plate": "^46.0.10",
+    "@udecode/plate-basic-elements": "^46.0.4",
+    "@udecode/plate-basic-marks": "^46.0.5",
+    "@udecode/plate-block-quote": "^44.0.0",
+    "@udecode/plate-heading": "^44.0.0",
     "isbot": "^5.1.17",
+    "lexical": "^0.29.0",
+    "quill": "^2.0.3",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "react-quilljs": "^2.0.5",
     "react-router": "^7.4.1"
   },
   "devDependencies": {
