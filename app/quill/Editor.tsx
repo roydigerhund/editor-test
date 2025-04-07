@@ -17,7 +17,6 @@ export default function QuillEditor() {
       static blotName = "magic"; // This is the format key (quill.format('magic', true))
       static tagName = "b"; // span doesn't work
       
-      // Optional: Provide a className or apply it in formats() method.
       static className = "magic-text-blot";
     }
     Quill.register({ "formats/magic": MagicTextBlot });
