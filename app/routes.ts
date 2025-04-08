@@ -10,6 +10,5 @@ export default [
     index("routes/home.tsx"),
     route("lexical", "routes/lexical.tsx"),
     route("plate", "routes/plate.tsx"),
-    route("quill", "routes/quill.tsx"),
   ]),
 ] satisfies RouteConfig;

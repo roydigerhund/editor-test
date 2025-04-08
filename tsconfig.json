@@ -18,7 +18,6 @@
       "~/*": ["./app/*"]
     },
     "esModuleInterop": true,
-    "allowSyntheticDefaultImports": true,
     "verbatimModuleSyntax": true,
     "noEmit": true,
     "resolveJsonModule": true,
